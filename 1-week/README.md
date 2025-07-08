@@ -1,4 +1,4 @@
-# Week 1 : Build LLM-RAG with OJK Circular Letter pdf data
+# Week 1-2 : Build LLM-RAG with OJK Circular Letter pdf data
 
 note :
 this projects run in google colab, so if you has issue, you can make issue in this repository
